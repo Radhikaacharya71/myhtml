@@ -1,0 +1,19 @@
+* {
+    background-color: aqua;
+}
+
+.personal{
+    color: brown;
+    padding: 5px;
+}
+
+.image{
+    border: 1px solid ;
+    border-radius: 5px;
+    padding: 5px;
+    width: 50%;
+
+}
+img:hover{
+    box-shadow: 0 0 2px 1px rgba(rgb(163, 139, 139), rgb(136, 164, 136), rgb(113, 113, 156), alpha);
+}
